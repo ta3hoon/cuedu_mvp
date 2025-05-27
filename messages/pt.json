@@ -1,0 +1,9 @@
+{
+  "HomePage": {
+    "welcome": "Bem-vindo ao Cuedu!",
+    "description": "Plataforma multilíngue de aprendizado de matemática com IA."
+  },
+  "UserOnboarding": {
+    "selectCountry": "Por favor, selecione seu país"
+  }
+}
