@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cuedu-460705",
+  "private_key_id": "98698b80d60530d1ff67dec9f1296005fc513774",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDNlSz8IiwWFtdA\nXVmcAFes73DV2V99nbD7MXJ5PZRXtITuepVc0A+JH6KBwwgGUHp2t0tL3rKe0FSZ\niwlTQDqb5J8IbOlLxCY0OtGYn+l2jxtXOFnrjPlp0eOoimiaZU1BJYDhdfTRFc4d\nhMpAWw+jzEDfH5coT4dLI7fhTfFw6DFpHLe6Qd4UnQvt5OOntLtxqkr0CHgrCEMX\nREQT0mTXlEIODxnJtlhGlMhxo4p3awtd407gOII2mNt2UZnLW3hFDf972YqLy2wa\naXPTFiFpyI5wGX5VTDHVyQ/p7ABnM0DDiSd0Eu2OmyFrp4U2HeM6Su2f8WGlAdoq\nG5vDc2w/AgMBAAECggEAPkDVkfYxHnFFNlbuSzipVBNfukosSegmDzLOhNs6YAKo\nnGSfdS8F/VKIjb3G4M6e/vMLSIrD0Sap76L0LHMPLGTjKZR9YvWfUgKbtJl8A2xb\nbaKBTDxwzHQD+eYLvfE+HyOhruRewa/WLgcnjaxlhIbWABrbVZgbkova402MdtE2\nMJZ4hKgPgLKFhB7nyqvNMqSre9isLshX5ecVRYwLWtXtmWkau3/wz1obVc0aBEf4\nNlsLVJ5cKjfSSgp3Q+nf5/urSFit+gmtzmrzwqB5yPD4fYePvU6Iy4LS+z4/I2Of\nkgEd6ggM8Lwza2K95V0V7RLZUFyMQOViIbTNln48KQKBgQDl86tY3442b/TlGhZS\nA80953T6ieUbeHWEZBoNeU488mmxgBodV5gAuk1VQkRCzpPl2s4hWVJgsO/rT/Hw\nvVrbQi0w755lMu7VoPKea4rMGLayvbdBN6lccEKxKwhK42HvU/2muL+ydGLlemqi\n6LSHQKZdWL8cX4m8Vz11pNDpqQKBgQDk3tS3P1z5Pjhs0AWZld/rhDzICGiK5Etp\n+m3jmV7blr7iu9uVuXomuBFq1xTTU1d6kXFz/Ts+4XXf7ixNi8+VhltbRRVgxDyB\nUVsY2Wmy1XFSq5dmsxGLI6Af1Uy4XS4I7NY5oibjgPAQqAyxl4olfc8gn1q3SR/e\noI2z8OhnpwKBgQCbTpqwuLSNMcpeHeNrWyP4pmXMfOvfRNliJFWwOfjMkxEtkA6T\nOMDx5OIsLkh6MpmTSdekkHZh1b8E2AbZCJrfsW9iOMRrJx5F7KFQu+OPezWRvS6S\n/qwFQdDZZe4A3lgb00dini7isVbGFIsHIlIjc1epfjH9UM1vBiD9Xua2mQKBgQCz\nTiA4sFuWqThrh03b1Z9oVGGKFYxRxCmRDbGp7i5yutcxqxuNYZJhYzPCEF8wcMrI\nK8pGpM4VpW1D0sTCvBYVfv1zs9vbw+HjLmnAPhShFreBnQ0wWHoWGAMK7YD9r4Kx\nW1s6K99rvUhWxFGtkJuaY8YyOKZJkfB16jMaFlL9YQKBgQCD/aq+DCcF1uUo8nJi\nCGY2qScK1FohOmI+84B2+N41hwf2sABS5HvoZwHCwydXlPOh5j0hdqbJRmA7VTxG\nwe+QBi+DgW16F3sBRnjUhm86ZmJwxcHeeTfoNkM4pPKQ2jK4VvyNS1dUkCycVzQK\nyfKy7Ds6D8ldKUztbIBV9J1jIg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cuedu-656@cuedu-460705.iam.gserviceaccount.com",
+  "client_id": "113694961477296061637",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cuedu-656%40cuedu-460705.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
