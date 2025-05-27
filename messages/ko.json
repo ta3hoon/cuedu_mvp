@@ -1,0 +1,9 @@
+{
+  "HomePage": {
+    "welcome": "Cuedu에 오신 것을 환영합니다!",
+    "description": "AI 기반 다국어 수학 학습 플랫폼입니다."
+  },
+  "UserOnboarding": {
+    "selectCountry": "국가를 선택해주세요"
+  }
+}
